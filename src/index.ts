@@ -17,6 +17,7 @@ export { PostContainer as AmityPostContainer } from '~/social/components/post/Po
 export { default as AmityPostEngagementBar } from '~/social/components/EngagementBar';
 export { default as AmityExpandableText } from '~/social/components/Comment/CommentText';
 export { useSDK as useAmitySDK } from '~/core/hooks/useSDK';
+export { default as useAmityImage } from '~/core/hooks/useImage';
 
 export { AmityUIKitManager } from '~/v4/core/AmityUIKitManager';
 
